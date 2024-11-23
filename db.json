@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Book One",
+        "author": "Author A",
+        "year": 2000,
+        "status": "в наличии"
+    },
+    {
+        "id": 2,
+        "title": "Book Two",
+        "author": "Author B",
+        "year": 2010,
+        "status": "выдана"
+    }
+]
