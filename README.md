@@ -84,4 +84,4 @@ library/
 Авторы
 Леженников Степан
 Email: stepanlezennikov@gmail.com
-GitHub: 
+GitHub: https://github.com/StepanLezhennikov
